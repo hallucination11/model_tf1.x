@@ -1,0 +1,4 @@
+tensorflow                1.15.0                    pypi_0    pypi
+tensorflow-estimator      1.15.0                    pypi_0    pypi
+tensorflow-intel          1.15.0                   pypi_0    pypi
+ protobuf                 3.19.0
